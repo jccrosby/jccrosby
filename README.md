@@ -5,5 +5,4 @@ I'm John Crosby - former professional cook turned keyboard jockey. I've left the
 Where you can find me
 
 - [Instagram](https://www.instagram.com/jccrosby)
-- [Twitter](https://www.twitter.com/jccrosby)
-- [jccrosby.com](https://www.jccrosby.com)
+- [BlueSky](https://bsky.app/profile/jcc.bsky.social)
