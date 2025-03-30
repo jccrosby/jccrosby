@@ -1,8 +1,11 @@
 ### Hi there! :wave: 
 
-I'm John Crosby - former professional cook turned keyboard jockey. I've left the fire and knives for a cushy chair and keyboard so I can make great things for great people. I'm a dad, husband, son, Principal Engineer at MLB, & kettlebell swinger. Also learning to fly fish in West Michigan.🏋️‍♂️🖥🎣
+I'm John Crosby - I’m a father, husband, and son. A former professional cook turned keyboard jockey 💻, now I build things for MLB ⚾️ and drink lots of coffee ☕️.
+Additionally, I’m a 🏋🏼kettle bell swinger, sometimes 🎣 fly fisher, and love Alabama rugby 🏉 and football 🏈... ROLL TIDE! 🐘
+
+📍 Opinions are my own and do not represent my employer.
 
 Where you can find me
 
-- [Instagram](https://www.instagram.com/jccrosby)
 - [BlueSky](https://bsky.app/profile/jcc.bsky.social)
+- [Mastodon](https://www.mas.to/@jcc)
