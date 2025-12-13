@@ -8,4 +8,3 @@ Additionally, I’m a 🏋🏼kettle bell swinger, sometimes 🎣 fly fisher, an
 Where you can find me
 
 - [BlueSky](https://bsky.app/profile/jcc.bsky.social)
-- [Mastodon](https://www.mas.to/@jcc)
