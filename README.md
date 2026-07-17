@@ -1,9 +1,12 @@
 ### Hi there! :wave: 
 
-I'm John Crosby - I’m a father, husband, and son. A former professional cook turned keyboard jockey 💻, now I build things for MLB ⚾️ and drink lots of coffee ☕️.
-Additionally, I’m a 🏋🏼kettle bell swinger, sometimes 🎣 fly fisher, and am a big Alabama football 🏈 fan - ROLL TIDE! 🐘
+Figuring out how to stop being a human-doing.
+🤝 Building software, leading teams, and making things work.
+Ex-chef turned engineer. 🍷🍳
+💪 Kettlebells & fly fishing. 🎣 
+#ROLLTIDE 🐘
 
-📍 Opinions are my own and do not represent my employer.
+📍 Opinions are my own.
 
 Where you can find me
 
